@@ -4,4 +4,4 @@ This kupfer plugin is a simple way to quickly log time on different tasks to a t
 ## Installation
 Place Logtime.py in your kupfer plugins directory. In Ubuntu this is ~/.local/share/kupfer/plugins/
 
-*Developed by Ashton McAllan at (BrightCookie)[http://brightcookie.com.au].*
+*Developed by Ashton McAllan at [BrightCookie](http://brightcookie.com.au).*
